@@ -1,0 +1,14 @@
+<h1>SOFTWARE ACADEMY</h1>
+<p>
+	<h2>PROGRAMMING CONCEPTS</h2>
+	I learnt how to apply different programming concepts such as object oriented programming in developing applications
+</p>
+<p>
+	<h2>PYTHON</h2>
+	I learnt to apply the programming concepts taught in developing python programs. I developed an application to train models in order 
+	to enable clients to match outfits.
+</p>
+<p>
+	<h2>JAVA</h2>
+	I was exposed to different techniques in developing industry standard applications 
+</p>
